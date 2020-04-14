@@ -27,7 +27,7 @@ Luego ejecuta el comando en consola
 > python check_dui.py -f filename.csv
 
 ![Ejecutando el codigo](image1.png)
-![Resultado](imag2.png)
+![Resultado](image2.png)
 
 Se mostrar el resultado de cada consulta y creara al final un archivo con las personas beneficiadas con el bono.
 
